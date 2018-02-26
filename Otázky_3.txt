@@ -1,0 +1,8 @@
+Otázky na cvičiaceho počas 3. stretnutia projektu
+
+Skontrolovať a odsúhlasiť ciele cvičacim
+Identifikovať správne biznis procesy
+
+Opýtať sa na funkčné a nefuknčné požiadavky,
+a určiť si priority
+Kedy začať modelovať biznis model
