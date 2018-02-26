@@ -1,4 +1,4 @@
-#PSI
+# PSI
 
 Tento repozitár je primárne určený na kooperáciu
 pri projekte z predmetu PSI
