@@ -3,6 +3,8 @@
 Tento repozitár je primárne určený na kooperáciu
 pri projekte z predmetu PSI
 
+Pri tvorbe projektu využívame dostupný softvér Enterprise architect
+
 Autori Pavol Grofčík Milan Bohňa
 
 Téma Manažovanie zimného štadiónu
