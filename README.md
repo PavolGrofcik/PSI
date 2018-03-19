@@ -16,4 +16,4 @@ Priečinok src obsahuje materiály predmetu PSI
 
 Priečinok Presentations obsahuje prezentácie potrebné ku každému cvičeniu
 
-![alt text](http://in2grateit.com/home/store/)
+![alt text](http://in2grateit.com/wp-content/uploads/2015/07/logo-EA1.jpg)
