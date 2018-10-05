@@ -18,4 +18,4 @@ Priečinok src obsahuje materiály predmetu PSI
 
 Priečinok Presentations obsahuje prezentácie potrebné ku každému cvičeniu
 
-![alt text](http://in2grateit.com/wp-content/uploads/2015/07/logo-EA1.jpg)
+![alt text](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iag.biz%2Fwp-content%2Fuploads%2F2016%2F08%2FSparx-Enterprise-Architect-Logo.png&f=1)
